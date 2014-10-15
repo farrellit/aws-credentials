@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    inifile (3.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  inifile
